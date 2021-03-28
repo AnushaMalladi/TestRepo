@@ -224,14 +224,14 @@ from pip._vendor.html5lib import _inputstream
 
 
 #Prob 17
-a= int(input())
-b=int(input())
-c= input()
-try:
-    k=a/b
-   
-except ZeroDivisionError as e:
-    print(e)
+# a= int(input())
+# b=int(input())
+# c= input()
+# try:
+#     k=a/b
+#    
+# except ZeroDivisionError as e:
+#     print(e)
 
 
 
